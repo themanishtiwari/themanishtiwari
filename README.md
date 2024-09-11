@@ -5,8 +5,8 @@ Hey there! I'm Manish Kumar Tiwari, a PHP developer who loves exploring new tech
 
 ## 🛠️ Skills & Tools
 
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&color=informational&logo=laravel)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=PHP)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&color=black&logo=laravel)
+![](https://img.shields.io/badge/-PHP-informational?style=flat&color=black&logo=PHP)
 ![](https://img.shields.io/badge/Ajax-informational?style=flat&color=informational&logo=jquery)
 ![](https://img.shields.io/badge/MySql-informational?style=flat&color=black&logo=mysql)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&color=informational&logo=javascript)
