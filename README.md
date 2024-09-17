@@ -35,4 +35,4 @@ Hey there! I'm Manish Kumar Tiwari, a PHP developer who loves exploring new tech
 - Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishtiwariit@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-tiwari/)
 - Website: [![Website](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat&logo=website&logoColor=white)](https://manishkumartiwari.com/)
-- Youtube: [![Youtube](https://img.shields.io/badge/-youtube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@DeveloperManishTiwari)
+- Youtube: [![YouTube](https://img.shields.io/badge/-YouTube-D14836?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@DeveloperManishTiwari)
