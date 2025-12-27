@@ -5,14 +5,14 @@ Hey there! I'm Manish Kumar Tiwari, a Java developer who loves exploring new tec
 
 ## 🛠️ Skills & Tools
 
-●​ Java
-●​ Spring Boot
-●​ Microservices
-●​ Database Technologies (MySQL, PostgreSQL)
-●​ Version Control & Collaboration
-●​ REST APIs
-●​ API security
-●​ Project Development Cycle
+- Java
+- Spring Boot
+- Microservices
+- Database Technologies (MySQL, PostgreSQL)
+- Version Control & Collaboration
+- REST APIs
+- API security
+- Project Development Cycle
 
 ## ⚡ Projects Done
 
