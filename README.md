@@ -1,7 +1,7 @@
 # Hi👋, I'm Manish Kumar Tiwari 
 
 ## 🚀 About Me
-Hey there! I'm Manish Kumar Tiwari, a PHP developer who loves exploring new tech and frameworks. Check out my repos to see my work with PHP, Larvael, Ajax, JavaScript, and more. I'm all about creating high-performance, user-centric web apps. Always excited to collaborate, get feedback, and join cool dev projects. Let's connect and make some tech magic happen!
+Hey there! I'm Manish Kumar Tiwari, a Java developer who loves exploring new tech and frameworks. with 4 years of experience designing and building scalable applications. with 1.2 years of hands-on Java development experience. Strong expertise in microservices architecture, third-party service integration, and real-time systems.Focused on transforming complex requirements into robust, high-performance backend solutions.!
 
 ## 🛠️ Skills & Tools
 
